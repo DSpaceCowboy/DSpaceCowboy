@@ -22,10 +22,10 @@ Aqui estão alguns dos meus projetos:
 
 ## 🗣 Idiomas
 
-- **Portugues**🇧🇷: Nativo 
-- **Inglês**🇺🇸: Fluente
-- **Japonês**🇯🇵: Iniciante 
-- **Italiano**🇮🇹: Iniciante 
+- **Portugues**: Nativo 
+- **Inglês**: Fluente
+- **Japonês**: Iniciante 
+- **Italiano**: Iniciante 
 
 
 ## 📫 Como me encontrar:
