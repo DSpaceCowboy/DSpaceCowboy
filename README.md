@@ -22,12 +22,11 @@ Aqui estão alguns dos meus projetos:
 
 ## 🗣 Idiomas
 
-- **Português**: Nativo 🇧🇷
-- **Inglês**: Fluente 🇬🇧 ![Fluência em inglês](https://img.shields.io/badge/Fluência-Inglês-4CAF50?style=flat&labelColor=4CAF50)
-- **Japonês**: Iniciante 🇯🇵 ![Fluência em japonês](https://img.shields.io/badge/Fluência-Japonês-FFC107?style=flat&labelColor=FFC107)
-- **Italiano**: Iniciante 🇮🇹 ![Fluência em italiano](https://img.shields.io/badge/Fluência-Italiano-FF5722?style=flat&labelColor=FF5722)
+- **Portugues**: Nativo 🇧🇷
+- **Inglês**: ![Fluente](https://img.shields.io/badge/Fluência-Inglês-4CAF50?style=flat&labelColor=4CAF50) 🇺🇸
+- **Japonês**: ![Fluência em japonês](https://img.shields.io/badge/Fluência-Japonês-FFC107?style=flat&labelColor=FFC107) 🇯🇵
+- **Italiano**: ![Fluência em italiano](https://img.shields.io/badge/Fluência-Italiano-FF5722?style=flat&labelColor=FF5722) 🇮🇹
 
-## 📫 Como me encontrar:
 
 ## 📫 Como me encontrar:
 
