@@ -23,9 +23,9 @@ Aqui estão alguns dos meus projetos:
 ## 🗣 Idiomas
 
 - **Portugues**: Nativo 🇧🇷
-- **Inglês**: ![Fluente](https://img.shields.io/badge/Fluência-Inglês-4CAF50?style=flat&labelColor=4CAF50) 🇺🇸
-- **Japonês**: ![Fluência em japonês](https://img.shields.io/badge/Fluência-Japonês-FFC107?style=flat&labelColor=FF5722) 🇯🇵
-- **Italiano**: ![Fluência em italiano](https://img.shields.io/badge/Fluência-Italiano-FF5722?style=flat&labelColor=FF5722) 🇮🇹
+- **Inglês**: Fluente 🇺🇸
+- **Japonês**: Iniciante 🇯🇵
+- **Italiano**: Iniciante 🇮🇹
 
 
 ## 📫 Como me encontrar:
