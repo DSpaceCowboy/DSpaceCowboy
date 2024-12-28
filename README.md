@@ -31,5 +31,6 @@ Aqui estão alguns dos meus projetos:
 ## 📫 Como me encontrar:
 
 - [LinkedIn](www.linkedin.com/in/domiciano-vieira)
+- www.linkedin.com/in/domiciano-vieira
 
 
