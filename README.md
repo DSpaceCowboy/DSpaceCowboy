@@ -1,6 +1,6 @@
 # Olá! Eu sou o Ðom 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, mergulhando em **JavaScript**, **C#** e **Java**. No meu tempo livre, estou lendo, jogando, desconstruindo jogos e tentando entender como Cowboy Bebop consegue ser tão bom em misturar filosofia e ação. Acredito que programar e explorar novas ideias não são tão diferentes de explorar mundos novos, por isso estou sempre atrás de desafios que me empurrem para sair da minha zona de conforto. 
+Sou estudante de **Ciência da Computação**, mergulhando em **JavaScript**, **C#** e **Java**.
 
 ## 🚀 Projetos
 
