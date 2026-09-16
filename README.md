@@ -18,13 +18,12 @@ Aqui estão alguns dos meus projetos:
 ## 🌱 Atualmente aprendendo
 
 - Aperfeiçoando minhas habilidades em **JavaScript** e **C#**.
-- Aprendendo **Java** e me aventurando em **Game Development**.
+- Aprendendo **Java** e me aventurando em **Desenolvimento Back-end**.
 
 ## 🗣 Idiomas
 
 - **Portugues**: Nativo 
 - **Inglês**: Fluente
-- **Japonês**: Iniciante 
 - **Italiano**: Iniciante 
 
 
